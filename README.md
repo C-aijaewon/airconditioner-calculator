@@ -12,7 +12,7 @@
 ## 🚀 바로 사용하기
 
 ### 방법 1: 웹에서 실행 (인터넷만 있으면 OK)
-> 🔗 [여기를 클릭하세요](https://share.streamlit.io) *(배포 후 URL 업데이트)*
+> 🔗 [여기를 클릭하세요](https://airconditioner-calculator-qennspe3zar4kwwh2j44hf.streamlit.app/) 
 
 ### 방법 2: 내 컴퓨터에서 실행
 ```bash
@@ -23,7 +23,7 @@ git clone https://github.com/C-aijaewon/airconditioner-calculator.git
 cd airconditioner-calculator
 
 # 3. 실행
-install_and_run.bat
+run_app.bat
 ```
 
 ## 🔧 사용법
